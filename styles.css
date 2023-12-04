@@ -1,4 +1,4 @@
-div {
+.text-style {
   margin: 0 auto;
   width: 94%;
 }
@@ -6,7 +6,7 @@ div {
 /* TABLET */
 
 @media screen and (min-width: 769px) {
-  div {
+  .text-style {
     width: 640px;
   }
 }
